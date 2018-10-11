@@ -1,0 +1,2 @@
+# study
+first using git
